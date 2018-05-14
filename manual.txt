@@ -1,0 +1,6 @@
+1. Click en el boton "cargar imagen"
+2. Seleccionar un archivo con extension .nii
+3. Variar Slider 3 (Derecha) para navegar por el corte del plano XY, dandole variacion al valor de Z
+4. Click en el boton "Seleccionar coordenadas"
+5. Dar click en el punto que se requiera de la imagen y posteriormente ENTER
+6. En la caja de texto se imprimirán las coordenadas de X, Y para el valor de Z que se encuentre en el slider 3
